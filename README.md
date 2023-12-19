@@ -1,6 +1,7 @@
 # Ferris Wheel Spectacle
 Welcome to the Ferris Wheel Spectacle project! Immerse yourself in a captivating visual experience as this project brings to life the enchanting world of a Ferris wheel. With a seamless blend of HTML and CSS, the Ferris Wheel Spectacle unfolds, showcasing the mesmerizing rotation of the iconic attraction and its surroundings.
-![Uploading ezgif-5-c7f9b1c120.gif…]()
+![ezgif-5-c7f9b1c120 (1)](https://github.com/vlqv9210/Ferris-Wheel/assets/114469811/ede5f9b9-85b4-4afe-a51b-754126616fd6)
+
 
 # Features
 Dynamic Rotation Animation: Watch as the Ferris wheel gracefully spins, creating a dynamic and visually stunning display. CSS animations are utilized to simulate the lifelike rotation, providing an immersive experience.
